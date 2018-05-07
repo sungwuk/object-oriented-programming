@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Open OOD</string>
+    <string name="app_name">지란지교 대여 시스템</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="text_color">#31D1F1</color>
+	<color name="white">#ffffff</color>
+	
+    <string name="one">가</string>
+	<string name="two">나</string>
+	<string name="three">다</string>
+	<string name="four">라</string>
+	<string name="five">마</string>
+	
+	<string name="rent">대여</string>
+</resources>
